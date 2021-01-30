@@ -36,7 +36,7 @@ Foi feito o deploy do projeto para produção utilizando o Vercel.
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/matheuspedrosoo/convertmymoney/blob/add-license-1/LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/matheuspedrosoo/conversor_de_unidades/blob/main/LICENSE.md) para mais informações.
 
 ##
 
